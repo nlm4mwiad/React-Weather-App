@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To run this project locally, you will have to run `npm i` before `ng serve`
+
 In the project directory, you can run:
 
 ### `yarn start`
